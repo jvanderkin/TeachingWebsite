@@ -1,18 +1,13 @@
 {
-    "title": "11ty-no-style-please",
-    "subtitle": "demo of a page made with 11ty-no-style-please",
+    "title": "Mr. Vanderkin's Math Website",
+    "subtitle": "The purpose of this website is to have easy access to notes, videos, and practice for AP Stats and NC Math 4. Most of this site is underdevelopment, please be patient. if you have any questions, problems, or suggestions let me know at help@josiahvanderkin.com",
     "menu": [
         {
-            "title": "read more here",
-            "entries": [
-                {
-                    "title": "github",
-                    "url": "http://github.com/stopnoanime/11ty-no-style-please"
-                }
-            ]
+            "title": "Which class are you here for?",
+            "post_list": "class"
         },
         {
-            "title": "all posts with the 'post' tag",
+            "title": "Announcements",
             "post_list": "post"
         }
     ]
