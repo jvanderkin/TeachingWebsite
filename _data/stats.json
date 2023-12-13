@@ -3,22 +3,19 @@
     "subtitle": "welcome to ap statistics, below you can find the textbook, notes, videos, and practice.",
     "menu": [
         {
-            "title": "helpful links",
+            "title": "links and things",
         "entries": [
-            {
-                "title": "textbook",
-                "url": "https://www.josiahvanderkin.com/media/statsbook.pdf"
-            }
-            ,
-            {
-                "title": "stapplets",
-                "url": "https://www.stapplet.com/"
-            }
-        ]
+            {"title": "textbook",
+                "url": "https://www.josiahvanderkin.com/media/statsbook.pdf"},
+            {"title": "notes",
+                "url": "https://www.josiahvanderkin.com/posts/statsnotes.md"},
+            {"title": "videos",
+                "url": "https://www.stapplet.com/"},
+            {"title": "stapplets",
+                "url": "https://www.stapplet.com/"}
+            ]
         },
-        {
-            "title": "stats announcements",
-            "post_list": "stats"
-        }
+        {"title": "stats announcements",
+            "post_list": "stats"}
     ]
 }

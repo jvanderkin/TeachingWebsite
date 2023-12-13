@@ -1,0 +1,19 @@
+{
+    "title": "mr. vanderkin nc math 4 honors",
+    "subtitle": "welcome to nc math 4 honors, below you can find notes, videos, and practice.",
+    "menu": [
+        {
+            "title": "helpful links",
+        "entries": [
+            {"title": "notes",
+                "url": "https://www.josiahvanderkin.com"},
+            {"title": "videos",
+                "url": "https://www.josiahvanderkin.com"},
+            {"title": "practice",
+                "url": "https://www.josiahvanderkin.com"}
+            ]
+        },
+        {"title": "math 4 announcements",
+            "post_list": "math4"}
+    ]
+}

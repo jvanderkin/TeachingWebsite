@@ -1,23 +1,23 @@
 {
-    "title": "Vanderkin Math",
-    "subtitle": "The purpose of this website is to have easy access to notes, videos, and practice for AP Stats and NC Math 4. Most of this site is underdevelopment, please be patient. if you have any questions, problems, or suggestions let me know at help@josiahvanderkin.com",
+    "title": "vanderkin math",
+    "subtitle": "the purpose of this website is to have easy access to notes, videos, and practice for AP Stats and NC Math 4. most of this site is underdevelopment, please be patient. if you have any questions, problems, or suggestions let me know at help@josiahvanderkin.com",
     "menu": [
         {
             "title": "which class are you here for?",
         "entries": [
             {
-                "title": "AP Statistics",
+                "title": "ap statistics",
                 "url": "https://www.josiahvanderkin.com/ap%20statistics/"
             }
             ,
             {
-                "title": "Math 4H",
-                "url": "https://www.josiahvanderkin.com/posts/math4/"
+                "title": "math 4 honors",
+                "url": "https://www.josiahvanderkin.com/math4"
             }
         ]
         },
         {
-            "title": "All Announcements",
+            "title": "all announcements",
             "post_list": "post"
         }
     ]
