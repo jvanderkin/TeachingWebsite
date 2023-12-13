@@ -3,9 +3,9 @@ layout: base.njk
 ---
 <header>
     <a href="/">{{ site.back_home_text }}</a>
-    <h1>{{ homepage.title or site.title }}</h1>
+    <h1>{{ stats.title or site.title }}</h1>
 
-    {% set subtitle = homepage.subtitle%}
+    {% set subtitle = stats.subtitle%}
     {% if subtitle %}
         <p>{{ subtitle }}</p>
     {% endif %}
