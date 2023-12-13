@@ -1,24 +1,24 @@
 {
-    "title": "Mr. Vanderkin AP Statistics",
-    "subtitle": "The purpose of this website is to have easy access to notes, videos, and practice for AP Stats and NC Math 4. Most of this site is underdevelopment, please be patient. if you have any questions, problems, or suggestions let me know at help@josiahvanderkin.com",
+    "title": "mr. vanderkin ap statistics",
+    "subtitle": "welcome to ap statistics, below you can find the textbook, notes, videos, and practice.",
     "menu": [
         {
-            "title": "which class are you here for?",
+            "title": "helpful links",
         "entries": [
             {
-                "title": "AP Statistics",
-                "url": "https://www.josiahvanderkin.com/ap%20statistics/"
+                "title": "textbook",
+                "url": "https://www.josiahvanderkin.com/posts/statstextbook"
             }
             ,
             {
-                "title": "Math 4H",
-                "url": "https://www.josiahvanderkin.com/posts/math4/"
+                "title": "stapplets",
+                "url": "https://www.stapplet.com/"
             }
         ]
         },
         {
-            "title": "AP Stats ",
-            "post_list": "post"
+            "title": "stats announcements",
+            "post_list": "stats"
         }
     ]
 }
