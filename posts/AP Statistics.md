@@ -1,6 +1,6 @@
 ---
 title: AP Statistics
-date: 2024-01-01
+date:
 tags:
   - class
 ---
