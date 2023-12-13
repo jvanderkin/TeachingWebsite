@@ -13,8 +13,7 @@ tags:
 ## Chapter 3
 
 ## Chapter 4
-[link to notes](www.josiahvanderkin.com/media/chapter4notes.pdf)
-
+[link to notes](https://www.josiahvanderkin.com/media/chapter4notes.pdf)
 ## Chapter 5
 
 ## Chapter 6
