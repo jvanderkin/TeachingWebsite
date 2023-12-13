@@ -7,10 +7,10 @@
         "entries": [
             {"title": "textbook",
                 "url": "https://www.josiahvanderkin.com/media/statsbook.pdf"},
-            {"title": "notes",
+            {"title": "notes and videos",
                 "url": "https://www.josiahvanderkin.com/posts/statsnotes"},
-            {"title": "videos",
-                "url": "https://www.stapplet.com/"},
+            {"title": "ap classroom",
+                "url": "https://apclassroom.collegeboard.org/33/home"},
             {"title": "stapplets",
                 "url": "https://www.stapplet.com/"}
             ]

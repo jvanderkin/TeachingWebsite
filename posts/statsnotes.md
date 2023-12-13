@@ -4,20 +4,16 @@ date:
 tags:
   - 
 ---
-# Chapter Notes
 
-## Chapter 1
+### notes by chapter
 
-## Chapter 2
-
-## Chapter 3
-
-## Chapter 4
-[link to notes](https://www.josiahvanderkin.com/media/chapter4notes.pdf)
-## Chapter 5
-
-## Chapter 6
-
-## Chapter 7
-
-## Chapter 8
+chapter 1
+chapter 2
+chapter 3
+[chapter 4](https://www.josiahvanderkin.com/media/chapter4notes.pdf)
+chapter 5
+chapter 6
+chapter 7
+chapter 8
+chapter 9
+chapter 10
