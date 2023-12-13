@@ -1,6 +1,6 @@
 ---
 title: TITLE HERE
-date: YEAR-MN-DY
+date: 2000-01-01
 tags:
   - 
 ---
